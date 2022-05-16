@@ -4,6 +4,8 @@
   "icon": "app.png",
   "version":"0.01",
   "description": "This is a description of my awesome timer app",
+  "icon": "timer.png",
+  "supports" : ["BANGLEJS2"],
   "tags": "",
   "storage": [
     {"name":"timer.app.js","url":"app.js"},
